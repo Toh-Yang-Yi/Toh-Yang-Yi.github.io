@@ -78,12 +78,20 @@ sup, .sup {
   border-radius: 500px;
 }
 
+.mt-7 {
+    margin-top: 6rem; /* Adjust this value */
+}
+.mt-8 {
+    margin-top: 8rem; /* Even more space */
+}
+
 header.p-section {
   padding: 160px 0px 120px;
 }
 
+
 .p-section {
-  padding: 100px 0px;
+    padding-top: 10000px;
 }
 
 .p-section-lg {
